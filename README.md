@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+
 <!--
 **fjavidcr/fjavidcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
