@@ -1,35 +1,31 @@
-### Hi there 👋
+# Javi del Castillo
+## Software Engineering Associate Manager
 
-I'm a developer passionate about building things.
+Passionate Software Engineering Associate Manager with over **8 years of experience** in full-stack development. My core expertise lies in **Python** and **Vue.js** ecosystems, where I have led the design and implementation of scalable, high-performance applications.
 
-```javascript
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
+I am currently focused on leveraging **Google Cloud Platform (GCP)** and **Artificial Intelligence** to solve complex business problems and drive technological advancement. My professional journey is defined by a commitment to code quality, team mentorship, and the delivery of robust software solutions.
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on interesting projects.
-- 🌱 I’m currently learning new technologies.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about coding!
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/) | [Twitter](https://twitter.com/)
-
-### 🛠️ Languages and Tools
+### 🛠️ Technology Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <!-- Cloud & AI -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AI-Machine_Learning-orange?style=for-the-badge" alt="AI & ML" />
+
+  <!-- Others -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
