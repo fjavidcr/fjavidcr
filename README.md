@@ -32,4 +32,7 @@ I am currently focused on leveraging **Google Cloud Platform (GCP)** and **Artif
 <p align="left">
   <img src="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true&theme=radical" alt="fjavidcr's github stats" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+  <br />
+  <img src="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr&theme=radical" alt="GitHub Streak" />
 </p>
