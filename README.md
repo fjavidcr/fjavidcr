@@ -30,9 +30,15 @@ I am currently focused on leveraging **Google Cloud Platform (GCP)** and **Artif
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true&theme=radical" alt="fjavidcr's github stats" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/fjavidcr" title="View detailed GitHub statistics for Javi del Castillo">
+    <img src="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true&theme=radical" alt="Detailed GitHub statistics and contributions for Javi del Castillo" />
+  </a>
+  <a href="https://github.com/fjavidcr?tab=repositories" title="View Javi del Castillo's top languages">
+    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact&theme=radical" alt="Top Languages used across repositories" />
+  </a>
   <br />
   <br />
-  <img src="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/fjavidcr" title="View Javi del Castillo's contribution streak">
+    <img src="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr&theme=radical" alt="GitHub contribution streak" />
+  </a>
 </p>
