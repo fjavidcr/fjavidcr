@@ -47,14 +47,26 @@ I am currently focused on leveraging **Google Cloud Platform (GCP)** and **Artif
 
 <p align="left">
   <a href="https://github.com/fjavidcr" title="View detailed GitHub statistics for Javi del Castillo">
-    <img src="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true&theme=radical" alt="Detailed GitHub statistics and contributions for Javi del Castillo" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true" />
+      <img src="https://readme-stats-fast.vercel.app/api?username=fjavidcr&show_icons=true&theme=radical" alt="Detailed GitHub statistics and contributions for Javi del Castillo" />
+    </picture>
   </a>
   <a href="https://github.com/fjavidcr?tab=repositories" title="View Javi del Castillo's top languages">
-    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact&theme=radical" alt="Top Languages used across repositories" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact" />
+      <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=fjavidcr&layout=compact&theme=radical" alt="Top Languages used across repositories" />
+    </picture>
   </a>
   <br />
   <br />
   <a href="https://github.com/fjavidcr" title="View Javi del Castillo's contribution streak">
-    <img src="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr&theme=radical" alt="GitHub contribution streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr" />
+      <img src="https://readme-stats-fast.vercel.app/api/streak?username=fjavidcr&theme=radical" alt="GitHub contribution streak" />
+    </picture>
   </a>
 </p>
